@@ -1,10 +1,10 @@
 # [level 1] 문자열 다루기 기본 - 12918 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=java) 
 
 ### 성능 요약
 
-메모리: 75.6 MB, 시간: 0.08 ms
+메모리: 77.5 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 23일 01:48:02
+2024년 04월 23일 01:50:56
 
 ### 문제 설명
 
